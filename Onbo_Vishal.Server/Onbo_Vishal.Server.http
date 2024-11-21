@@ -1,0 +1,6 @@
+@Onbo_Vishal.Server_HostAddress = http://localhost:5105
+
+GET {{Onbo_Vishal.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
